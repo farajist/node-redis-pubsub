@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-server": "^2.19.0",
+    "console-stamp": "^0.2.9",
     "dotenv": "^8.2.0",
     "graphql": "^15.4.0",
     "graphql-redis-subscriptions": "^2.3.1",
